@@ -4,8 +4,8 @@
   *
   * Backbone Game Engine - An elementary HTML5 canvas game engine using Backbone.
   *
-  * Copyright (c) 2014 Martin Drapeau
-  * https://github.com/martindrapeau/backbone-game-engine
+  * Copyright (c) 2014 Daksh Codess
+  * https://github.com/DakshCodess/backbone-game-engine
   *
   */
 
