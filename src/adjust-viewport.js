@@ -2,10 +2,10 @@
 
   /**
   *
-  * Backbone Game Engine - An elementary HTML5 canvas game engine using Backbone.
+  * Super Mario Bros- An elementary HTML5 canvas game engine using Java.
   *
   * Copyright (c) 2014 Daksh Codess
-  * https://github.com/DakshCodess/backbone-game-engine
+  * https://github.com/DakshCodess/super-mario-bros
   *
   */
 
