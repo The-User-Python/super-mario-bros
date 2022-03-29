@@ -1,4 +1,4 @@
-Backbone Game Engine
+Super Mario Bros 
 ====================
 
 An elementary HTML5 Game Engine built on Backbone.
