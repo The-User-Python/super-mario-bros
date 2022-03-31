@@ -2,10 +2,10 @@ $(window).on("load", function() {
 
   /**
    *
-   * Super Mario Bros - An elementary HTML5 canvas game engine using Backbone.
+   * Backbone Game Engine - An elementary HTML5 canvas game engine using Backbone.
    *
-   * Copyright (c) 2014 Daksh Hande
-   * https://github.com/DakshCodess/super-mario-bros
+   * Copyright (c) 2014 Martin Drapeau
+   * https://github.com/martindrapeau/backbone-game-engine
    *
    */
 
